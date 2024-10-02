@@ -101,9 +101,9 @@ Regra 1: Biotipo
 
 Identificar qual o tipo corporal da pessoa conforme informado na variável {{Biotipo}} acima, que vai ser um dos três tipos especificados abaixo:
 
-- Ectomorfo:	Corpo mais magro, difícil ganhar peso e massa muscular.
-- Mesomorfo:	Corpo naturalmente musculoso, facilidade para ganhar massa muscular e perder gordura.
-- Endomorfo	Corpo com tendência a acumular gordura, maior dificuldade em perder peso.
+- Ectomorfo_	Corpo mais magro, difícil ganhar peso e massa muscular.
+- Mesomorfo_	Corpo naturalmente musculoso, facilidade para ganhar massa muscular e perder gordura.
+- Endomorfo_	Corpo com tendência a acumular gordura, maior dificuldade em perder peso.
 
 Regra 2: Periodização
 
