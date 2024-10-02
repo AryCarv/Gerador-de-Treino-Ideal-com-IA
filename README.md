@@ -57,12 +57,12 @@ A terceira regra envolve a escolha do tipo de exercício preferido. Aqui estão 
 ---
 
 ## ⏱ Tipos e horários da sua alimentação
-Ao iniciar uma rotina de treinos semanal é importante estabelecer uma dieta equilibrada ao longo dos dias para que se obtenha melhores resultados com a atividade física. Dessa forma, para cada perfil de usuário o assistente (IA) vai determinar a melhor dieta e os horários adequados para alimentação considerando o biotipo da pessoa e sua necessidade e interesse com os exercícios.
+Ao iniciar uma rotina de treinos semanal é importante estabelecer uma dieta equilibrada ao longo dos dias para que se obtenha melhores resultados com a atividade física. Dessa forma, para cada perfil de usuário o assistente (IA) vai determinar a melhor dieta e os horários adequados para alimentação, considerando o biotipo da pessoa e sua necessidade e interesse com os exercícios.
 
 ---
 
 ## 📌 Equipamentos de apoio para o seu exercício
-Para cada biotipo e modalidade de exercícios o Assistente (IA) vai recomendar alguns aparelhos ou equipamentos para auxiliar o usuário nos seus treinos e com isso, poder alcançar melhores resultados.
+Para cada biotipo e modalidade de exercícios o Assistente (IA) vai recomendar alguns aparelhos ou equipamentos para auxiliar o usuário nos treinos e com isso, poder alcançar melhores resultados.
 
 ---
 
